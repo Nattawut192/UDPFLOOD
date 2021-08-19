@@ -6,7 +6,7 @@
 
 <pre>apt install git</pre>
 
-<pre>git clone https://github.com/wachirachoomsiri/UDPFLOOD.git</pre>
+<pre>git clone https://github.com/Nattawut192/UDPFLOOD</pre>
 
 <pre>cd UDPFLOOD</pre>
 
@@ -20,7 +20,7 @@
 
 <pre>apt install git</pre>
 
-<pre>git clone https://github.com/wachirachoomsiri/UDPFLOOD.git</pre>
+<pre>git clone https://github.com/Nattawut192/UDPFLOOD</pre>
 
 <pre>cd UDPFLOOD</pre>
 
@@ -37,7 +37,7 @@
 
 <pre>apt install git</pre>
 
-<pre>git clone https://github.com/wachirachoomsiri/UDPFLOOD.git</pre>
+<pre>git clone https://github.com/Nattawut192/UDPFLOOD</pre>
 
 <pre>cd UDPFLOOD</pre>
 
@@ -51,7 +51,7 @@
 
 <pre>apt install git</pre>
 
-<pre>git clone https://github.com/wachirachoomsiri/UDPFLOOD.git</pre>
+<pre>git clone https://github.com/Nattawut192/UDPFLOOD</pre>
 
 <pre>cd UDPFLOOD</pre>
 
